@@ -101,7 +101,7 @@ pip install autopwn
 
 ### Direct download
 ```bash
-wget https://raw.githubusercontent.com/autopwn/autopwn/main/autopwn.py
+wget https://raw.githubusercontent.com/savvythunder219/autopwn/main/autopwn.py
 ```
 
 ### Requirements

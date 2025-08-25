@@ -96,7 +96,7 @@ print(code)
 
 ### Via pip
 ```bash
-pip install autopwn
+Not available on pip for now, I'll launch in the upcoming updates.
 ```
 
 ### Direct download

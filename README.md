@@ -237,7 +237,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 📞 Support
 
 - **GitHub Issues**: [Report bugs](https://github.com/savvythunder/autopwn/issues)
-- **Email**: savvythunder219@gmail.com
 - **Documentation**: Not needed*
 
 ---
@@ -249,6 +248,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 *Simplifying deobfuscation, one layer at a time*
 
 [![GitHub](https://img.shields.io/badge/GitHub-autopwn-green?logo=github)](https://github.com/savvythunder/autopwn)
-[![PyPI](https://img.shields.io/badge/PyPI-autopwn-green?logo=pypi)](https://pypi.org/project/autopwn)
-
 </div>

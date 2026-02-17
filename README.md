@@ -101,7 +101,7 @@ Not available on pip for now, I'll launch in the upcoming updates.
 
 ### Direct download
 ```bash
-wget https://raw.githubusercontent.com/savvythunder219/autopwn/main/autopwn.py
+wget https://raw.githubusercontent.com/savvythunder/autopwn/main/autopwn.py
 ```
 
 ### Requirements
